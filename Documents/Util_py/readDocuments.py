@@ -11,7 +11,7 @@ import os
 import time 
 from docx2pdf import convert
 
-# 根目录路径
+# 根目录路径p
 path = "Documents"
 js_path = "myAssets/js/readDocuments.js"
 
